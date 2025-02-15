@@ -58,10 +58,11 @@ To compile and test these contracts, ensure you have the following installed:
    ```bash
    git clone https://github.com/Lviffy/Solidity-Basics.git
    cd Solidity-Basics
+   ---
  📚 Additional Resources
 - 📘 [Solidity Docs](https://docs.soliditylang.org/)
 - 📜 [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - 🎓 [Dapp University Tutorial](https://www.dappuniversity.com/articles/solidity-tutorial)
 
----
+
 ✨ **Happy Building & Learning!** 🦄

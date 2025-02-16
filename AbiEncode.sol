@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title ABI Encoding Examples
-/// @author Ishan Lakhwani
 /// @notice Shows different ways to encode function calls
 
 /*

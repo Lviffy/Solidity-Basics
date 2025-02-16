@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Array Examples
-/// @author Ishan Lakhwani
 /// @notice Shows different types of arrays and how to use them
 
 /*

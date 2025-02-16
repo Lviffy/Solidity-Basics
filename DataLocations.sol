@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Data Locations in Solidity
-/// @author Ishan Lakhwani
 /// @notice Shows different ways data can be stored
 
 /*

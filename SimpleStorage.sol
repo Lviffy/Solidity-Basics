@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Simple Storage Contract Demo
-/// @author Ishan Lakhwani
 /// @notice A basic example of reading and writing state in a smart contract
 /// @dev Demonstrates the fundamental concepts of state variables and functions
 

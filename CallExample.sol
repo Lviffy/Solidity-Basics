@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Low-Level Call Examples
-/// @author Ishan Lakhwani
 /// @notice Shows how to make low-level calls between contracts
 
 /*

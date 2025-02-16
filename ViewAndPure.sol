@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title View and Pure Functions Demo
-/// @author Ishan Lakhwani
 /// @notice Shows how view and pure functions work
 
 /*

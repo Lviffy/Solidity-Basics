@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title DelegateCall Example
-/// @author Ishan Lakhwani
 /// @notice Shows how delegatecall works and its differences from regular calls
 
 /*

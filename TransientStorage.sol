@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Transient Storage Demo
-/// @author Ishan Lakhwani
 /// @notice Shows how to use transient storage (new in Solidity)
 
 /*

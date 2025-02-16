@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Interface Examples in Solidity
-/// @author Ishan Lakhwani
 /// @notice Shows how interfaces work and how to use them
 
 /*

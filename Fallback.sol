@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Fallback and Receive Functions
-/// @author Ishan Lakhwani
 /// @notice Shows how fallback and receive functions handle incoming ETH
 
 /*

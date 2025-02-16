@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Payable Functions and Ether Handling
-/// @author Ishan Lakhwani
 /// @notice Shows how to handle ETH transfers in smart contracts
 
 /*

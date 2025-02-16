@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Solidity Primitive Data Types Demo
-/// @author Ishan Lakhwani
 /// @notice This contract demonstrates the basic primitive data types in Solidity
 /// @dev A simple contract to showcase various data types and their usage
 

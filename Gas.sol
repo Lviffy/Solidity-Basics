@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Gas Demonstration Contract
-/// @author Ishan Lakhwani
 /// @notice Demonstrates how gas works in Ethereum
 /// @dev Shows an example of an infinite loop that will consume all gas
 

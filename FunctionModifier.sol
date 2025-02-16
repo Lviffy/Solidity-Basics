@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Function Modifier Examples
-/// @author Ishan Lakhwani
 /// @notice Shows how to use modifiers to control function access and behavior
 
 /*

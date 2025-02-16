@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Event Examples in Solidity
-/// @author Ishan Lakhwani
 /// @notice Shows how to use events for logging and tracking
 
 /*

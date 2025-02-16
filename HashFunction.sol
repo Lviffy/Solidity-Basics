@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Hash Function Examples
-/// @author Ishan Lakhwani
 /// @notice Shows how to use keccak256 hash function and avoid collisions
 
 /*

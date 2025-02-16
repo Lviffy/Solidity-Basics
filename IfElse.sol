@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Control Flow with If-Else Statements
-/// @author Ishan Lakhwani
 /// @notice Demonstrates conditional statements in Solidity
 /// @dev Shows both traditional if-else and ternary operator usage
 

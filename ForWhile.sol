@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Loop Control Structures in Solidity
-/// @author Ishan Lakhwani
 /// @notice Demonstrates different types of loops and control statements
 /// @dev Shows for loops, while loops, continue, and break statements
 

@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Different Ways to Send ETH
-/// @author Ishan Lakhwani
 /// @notice Shows three different methods to send ETH between contracts
 
 /*

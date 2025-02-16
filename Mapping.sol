@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Mapping Demo
-/// @author Ishan Lakhwani
 /// @notice Shows how mappings work in Solidity
 
 /*

@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Error Handling in Solidity
-/// @author Ishan Lakhwani
 /// @notice Shows different ways to handle errors and validate conditions
 
 /*

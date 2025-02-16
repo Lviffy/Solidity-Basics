@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Function Visibility Demo
-/// @author Ishan Lakhwani
 /// @notice Shows different types of function visibility in Solidity
 
 /*

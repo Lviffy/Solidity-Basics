@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Solidity Variables Demo
-/// @author Ishan Lakhwani
 /// @notice Demonstrates the three types of variables in Solidity: State, Local, and Global
 /// @dev Shows basic usage of different variable scopes and their characteristics
 

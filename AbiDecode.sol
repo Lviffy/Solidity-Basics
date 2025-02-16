@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title ABI Decode Examples
-/// @author Ishan Lakhwani
 /// @notice Shows how to encode and decode complex data structures
 
 /*

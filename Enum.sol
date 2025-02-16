@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Enum Example with Order Status
-/// @author Ishan Lakhwani
 /// @notice Shows how to use enums for status tracking
 
 /*

@@ -2,7 +2,6 @@
 pragma solidity ^0.8.26;
 
 /// @title Constructor and Inheritance Examples
-/// @author Ishan Lakhwani
 /// @notice Shows different ways to use constructors with inheritance
 
 /*
